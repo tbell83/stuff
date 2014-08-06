@@ -2,8 +2,6 @@
 
 ---
 
-701 CAMBERLY RD  
-GLENSIDE, PA 19038  
 tbell@tombellnj.com  
 (973) 953-6588  
 
