@@ -29,7 +29,7 @@ GPA: 3.49
 
 ## EXPERIENCE
 
-### Intern Systems Administrator May 2013 - Present
+### Systems Administrator Intern May 2013 - Present
 #### AWeber Communications Chalfont, Pennsylvania
 
 * Supported 100+ Mac workstations
