@@ -8,17 +8,17 @@ tbell@tombellnj.com
 ---
 
 ## SUMMARY
- 
+
 IT professional with 10+ years hands-on experience in a wide range of technologies, seeking a development or systems administrative position.
 
 ---
 
 ## EDUCATION
- 
+
 ### TEMPLE UNIVERSITY, College of Science & Technology, Philadelphia, PA
 Bachelor of Science, Information Science & Technology, Graduation: May 2015  
 Current GPA: 3.45
- 
+
 ### MONTGOMERY COUNTY COMMUNITY COLLEGE, Blue Bell, PA
 Associate of Science, Computer Science  
 GPA: 3.49
@@ -36,14 +36,14 @@ GPA: 3.49
 * Managed deployment of mobile devices throughout the organization using JAMF Casper Suite
 * Managed automated server deployments using configuration management tools such as chef and puppet.
 * Responsible for internal office networking
- 
+
 ### Junior Systems Administrator February 2012 - March 2013
 #### Expert Computer Specialists Oreland, Pennsylvania
 
 * Provided end user technical support, by phone and on-site
 * Assisted in deployment and maintenance of a variety of hardware and software configurations
 * Maintained backup and disaster recovery for multiple sites/organizations
- 
+
 ### IT Director​ February 2002 – July 2010
 #### Hypotenuse, Inc. Clifton, New Jersey
 
@@ -59,7 +59,7 @@ GPA: 3.49
 ---
 
 ## SKILLS
- 
+
 - Chef
 - Nagios
 - Vagrant
@@ -68,6 +68,7 @@ GPA: 3.49
 - SNMP
 - Python
 - Bash
+- Agile Estimating & Planning Certification
 - C#
 - SQL
 - Graphite
