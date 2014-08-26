@@ -16,4 +16,4 @@ Softening words are words that do not make absolute statements, but allow for al
 
 ## Action items, task, and commitments – how should you follow up on these items?
 
-You should follow up on your action items as you complete them, as to alleviate any worry or anxiety you may be creating for the person who is counting on your completion of these tasks.
+You should follow up on your action items as you complete them, as to alleviate any worry or anxiety you may be creating for the person who is counting on your completion of these tasks.  Follow up on your action items either by sending an email or bringing up the status of the commitment at the next meeting.
