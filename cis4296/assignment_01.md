@@ -1,3 +1,7 @@
+### Thomas Bell
+### CIS 4296
+### 08/25/2014
+
 ## How does “rhythm” come into play when scheduling a meeting?  You should become aware of the rhythm of your client so you understand their business.
 
 Rhythm is important when scheduling a meeting because each business operates at its own, unique pace.  When scheduling a meeting, it's best to choose the times when you and the rest of the attendees are least likely to be interrupted or distracted, or under a lighter workload than they might be on other days.
