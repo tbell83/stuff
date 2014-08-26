@@ -1,6 +1,6 @@
-### Thomas Bell
-### CIS 4296
-### 08/25/2014
+#### Thomas Bell
+#### CIS 4296
+#### 08/25/2014
 
 ## How does “rhythm” come into play when scheduling a meeting?  You should become aware of the rhythm of your client so you understand their business.
 
