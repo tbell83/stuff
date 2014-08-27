@@ -4,6 +4,22 @@ CIS 4296
 
 08/25/2014
 
+## Part 1
+
+### Write 5 detailed, multi-part questions for the Job Fair System.  Bring a copy to class for discussion and interviewing Wendy and Rose.
+
+What sort of data will be collected and stored in the system?  Who will need access to the data?  How will access be granted?  Will there need to be an administrator or and administrative access panel?
+
+How will users interact with the system?  Will the system need to be mobile responsive?  Will there be any user interaction with the system after the initial registration process?  Will the system be responsible for contacting registrants?  If so, how?  Email, SMS, telephone?
+
+What specific data about students/employers will the system be gathering?  How long will this data need to be retained?  Will the data contain any sensitive information?  Will the provider of the data have any control over its retention?
+
+Will there be an API with which the system can interact insofar as payment processing and confirmation?  Will the system need to provide and API so that third parties can interact with it programmatically?
+
+What sort of reporting and metrics will be required of the system?  Is a simple database dump sufficient, or does the system need to be capable of generating reports?
+
+## Part 2
+
 ### How does “rhythm” come into play when scheduling a meeting?  You should become aware of the rhythm of your client so you understand their business.
 
 Rhythm is important when scheduling a meeting because each business operates at its own, unique pace.  When scheduling a meeting, it's best to choose the times when you and the rest of the attendees are least likely to be interrupted or distracted, or under a lighter workload than they might be on other days.
