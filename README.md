@@ -66,6 +66,7 @@ GPA: 3.49
 - Mac OS X
 - Linux
 - SNMP
+- git
 - Python
 - Bash
 - Agile Estimating & Planning Certification
