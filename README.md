@@ -17,7 +17,7 @@ IT professional with 10+ years hands-on experience in a wide range of technologi
 Temple University, College of Science & Technology
 : *Bachelor of Science, Information Science & Technology*
   __Graduation: May 2015__
-Current GPA: 3.44
+* Current GPA: 3.44
 
 ------
 
