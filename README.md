@@ -12,15 +12,6 @@ IT professional with 10+ years hands-on experience in a wide range of technologi
 
 ------
 
-### Education
-
-Temple University, College of Science & Technology
-: *Bachelor of Science, Information Science & Technology*
-  __Graduation: May 2015__
-* Current GPA: 3.44
-
-------
-
 ### Experience
 
 AWeber Communications
@@ -58,16 +49,15 @@ Hypotenuse, Inc.
 
 * Chef
 * Nagios
+* Graphite
 * Vagrant
+* git
+* SQL
+* C#
 * Mac OS X
 * Linux
-* SNMP
-* git
-* Python
 * Bash
-* C#
-* SQL
-* Graphite
+* Python
 * Asterisk
 * Postfix
 * Apache
@@ -77,3 +67,12 @@ Hypotenuse, Inc.
 * Eligible to work in US and all EU countries
 * Agile Estimating & Planning Certification
 * Fluent German written/spoken
+
+------
+
+### Education
+
+Temple University, College of Science & Technology
+: *Bachelor of Science, Information Science & Technology*
+  __Graduation: May 2015__
+* Current GPA: 3.44
