@@ -17,7 +17,7 @@ IT professional with 10+ years hands-on experience in a wide range of technologi
 
 ### TEMPLE UNIVERSITY, College of Science & Technology, Philadelphia, PA
 Bachelor of Science, Information Science & Technology, Graduation: May 2015  
-Current GPA: 3.45
+Current GPA: 3.44
 
 ### MONTGOMERY COUNTY COMMUNITY COLLEGE, Blue Bell, PA
 Associate of Science, Computer Science  
@@ -27,12 +27,12 @@ GPA: 3.49
 
 ## EXPERIENCE
 
-### Systems Administrator Intern May 2013 - Present
+### Operations Engineer Intern May 2013 - Present
 #### AWeber Communications Chalfont, Pennsylvania
 
 * Supported 100+ Mac workstations
 * Managed automated workstation deployments using Deploy Studio and custom shell scripting
-* Maintained automated server and network monitoring and metric collection systems using nagios, graphite and SNMP
+* Maintained automated server and network monitoring and metric collection systems using nagios, graphite
 * Managed deployment of mobile devices throughout the organization using JAMF Casper Suite
 * Managed automated server deployments using configuration management tools such as chef and puppet.
 * Responsible for internal office networking
