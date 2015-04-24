@@ -28,29 +28,29 @@ AWeber Communications
   __2013-Present__
 * Supported 100+ Mac workstations.
 * Managed automated workstation deployments using Deploy Studio and custom shell scripting.
-Maintained automated server and network monitoring and metric collection systems using nagios, graphite.
-Managed deployment of mobile devices throughout the organization using JAMF Casper Suite.
-Managed automated server deployments using configuration management tools such as chef and puppet.
-Responsible for internal office networking.
+* Maintained automated server and network monitoring and metric collection systems using nagios, graphite.
+* Managed deployment of mobile devices throughout the organization using JAMF Casper Suite.
+* Managed automated server deployments using configuration management tools such as chef and puppet.
+* Responsible for internal office networking.
 
 Expert Computer Specialists
 : *Junior Systems Administrator*
   __2012-2013__
-Provided end user technical support, by phone and on-site
-Assisted in deployment and maintenance of a variety of hardware and software configurations
-Maintained backup and disaster recovery for multiple sites/organizations
+* Provided end user technical support, by phone and on-site
+* Assisted in deployment and maintenance of a variety of hardware and software configurations
+* Maintained backup and disaster recovery for multiple sites/organizations
 
 Hypotenuse, Inc.
 : *IT Director​ February*
   __2002–2010__
-Deployed and maintained IT infrastructure for 5-15 employees in Windows 2000-based network using integrated Exchange server for both local and remote users
-Specified, designed and deployed IP based telephone system supporting both local and remote offices
-Designed and maintained sites for SurveyUSA.com and VoterRollCall.com using custom wordpress themes
-Coordinated and deployed hardware side of automated call center capable of 1,995 simultaneous calls
-Provided end user technical support
-Researched and communicated growth and maintenance needs to senior management
-Designed and deployed multi-site backup scheme
-Coordinated and executed migration of all data and telephone infrastructure to new facilities
+* Deployed and maintained IT infrastructure for 5-15 employees in Windows 2000-based network using integrated Exchange server for both local and remote users
+* Specified, designed and deployed IP based telephone system supporting both local and remote offices
+* Designed and maintained sites for SurveyUSA.com and VoterRollCall.com using custom wordpress themes
+* Coordinated and deployed hardware side of automated call center capable of 1,995 simultaneous calls
+* Provided end user technical support
+* Researched and communicated growth and maintenance needs to senior management
+* Designed and deployed multi-site backup scheme
+* Coordinated and executed migration of all data and telephone infrastructure to new facilities
 
 ------
 
