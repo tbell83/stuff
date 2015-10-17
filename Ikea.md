@@ -32,7 +32,6 @@
     - Bekvam
         - $14.99
         - http://www.ikea.com/us/en/catalog/products/60178887/
-
 - Under cabinet lights
     - Dioder
         - $19.99
