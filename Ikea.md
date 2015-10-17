@@ -1,0 +1,44 @@
+Wastepaper basket
+    - Fniss
+        - $1.49
+        - http://www.ikea.com/us/en/catalog/products/40295439/#/60295438
+- Bistro Chairs
+    - Lacko
+        - $30.00
+        - http://www.ikea.com/us/en/catalog/products/60151840/
+    - Terje
+        - $19.99
+        - http://www.ikea.com/us/en/catalog/products/00222440/
+    - Tarno
+        - $15.00
+        - http://www.ikea.com/us/en/catalog/products/90095428/
+    - AskHolmen
+        - $19.00
+        - http://www.ikea.com/us/en/catalog/products/50240031/
+    - Malaro
+        - $30.00
+        - http://www.ikea.com/us/en/catalog/products/40252661/
+    - Applaro
+        - $35.00
+        - http://www.ikea.com/us/en/catalog/products/10208537/
+- Hangers
+    - Bumerang
+        - $4.99/8
+        - http://www.ikea.com/us/en/catalog/products/70238541/#/30238543
+- Stepstool
+    - Bolmen
+        - $7.99
+        - http://www.ikea.com/us/en/catalog/products/90291330/#/60265163
+    - Bekvam
+        - $14.99
+        - http://www.ikea.com/us/en/catalog/products/60178887/
+
+- Under cabinet lights
+    - Dioder
+        - $19.99
+        - http://www.ikea.com/us/en/catalog/products/20119418/
+- Curtains
+- Curtain Rod
+    - Racka
+        - $8.96
+        - http://www.ikea.com/us/en/catalog/products/S59929243/
