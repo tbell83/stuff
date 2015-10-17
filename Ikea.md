@@ -1,4 +1,4 @@
-Wastepaper basket
+- Wastepaper basket
     - Fniss
         - $1.49
         - http://www.ikea.com/us/en/catalog/products/40295439/#/60295438
